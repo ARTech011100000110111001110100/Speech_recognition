@@ -15,7 +15,7 @@ Speech_recognition`
 **Technologies Used:**
 
 *   **Programming Languages:** Python
-*   **Frameworks/Libraries:** N/A
+*   **Frameworks/Libraries:** numpy, pandas, scikit-learn, tensorflow, keras, matplotlib
 
 **Contributing:**
 
