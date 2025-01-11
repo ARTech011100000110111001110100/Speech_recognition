@@ -9,13 +9,12 @@ A small project, nothing special
 
 **Getting Started:**
 
-1.  **Install:** `pip install ARTech011100000110111001110100/
-Speech_recognition`
+1.  **Install:** `pip install ARTech011100000110111001110100/Speech_recognition`
 
 **Technologies Used:**
 
 *   **Programming Languages:** Python
-*   **Frameworks/Libraries:** numpy, pandas, scikit-learn, librosa, imblearn
+*   **Frameworks/Libraries:** numpy, pandas, scikit-learn, librosa, imblearn, seaborn, matplotlib
 
 **Contributing:**
 
